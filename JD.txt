@@ -1,9 +1,0 @@
-Job Description
-Project Role : Application Developer
-Project Role Description : Design, build and configure applications to meet business process and application requirements.
-Must have skills : PySpark
-Good to have skills : NA
-Minimum 2 year(s) of experience is required
-Educational Qualification : 15 years full time education
-
-Summary: As an Application Developer, you will design, build, and configure applications to meet business process and application requirements. You will collaborate with teams to ensure successful project delivery and application functionality. Roles & Responsibilities: - Expected to perform independently and become an SME. - Required active participation/contribution in team discussions. - Contribute in providing solutions to work-related problems. - Develop and implement software solutions to meet business requirements. - Collaborate with cross-functional teams to ensure project success. - Conduct code reviews and provide feedback to team members. - Stay updated on industry trends and best practices. - Assist in troubleshooting and resolving technical issues. Professional & Technical Skills: - Must To Have Skills: Proficiency in PySpark. - Strong understanding of data processing and analysis. - Experience with distributed computing frameworks. - Hands-on experience in building scalable applications. - Knowledge of cloud platforms and services. Additional Information: - The candidate should have a minimum of 2 years of experience in PySpark. - This position is based at our Hyderabad office. - A 15 years full-time education is required.
